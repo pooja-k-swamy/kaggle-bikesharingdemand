@@ -71,5 +71,3 @@ Ridge | 0.982389 | Avoid Overfitting by penalizing features(L2)
 ![Screenshot (11)](https://user-images.githubusercontent.com/60587239/81622706-c0befc80-93bf-11ea-8ffc-e17b67a1bb55.png)
 
 Gradient Boosting(After Tuning hyperparameters) performs best on the validate set, with lowest RMSLE value of 0.27047
-
-Thank you!
